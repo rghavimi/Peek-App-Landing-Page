@@ -59,3 +59,9 @@ color: white;
 color: white;
 }
 
+img{
+	width:250px;
+	height:100px;
+	object-fit: contain;
+}
+
